@@ -1,0 +1,38 @@
+export const ShoeInfo =[
+    {
+        id: "Draw",
+        imgAdd:'/static/media/nike1.37716ece.png',
+        brand:"NIKE",
+        name:"stussy",
+    },
+    {
+        id:"Draw", 
+        imgAdd:'/static/media/nike2.b641919f.png', 
+        brand:"NIKE", 
+        name:"jordan1 travis scott"
+    },
+    {   id:"soon", 
+        imgAdd:'/static/media/nike3.c98152b8.png', 
+        brand:"NIKE", 
+        name:"sacai"},
+    {   id:"Draw", 
+        imgAdd:'/static/media/nike4.2a1d8a3d.png', 
+        brand:"NIKE", 
+        name:"jordan1 offwhite"},
+    {   id:"soon", 
+        imgAdd:'/static/media/nike5.1171ec89.png', 
+        brand:"NIKE", 
+        name:"jordan1 dior"},
+    {   id:"soon", 
+        imgAdd:'/static/media/nike6.4f498ec5.png', 
+        brand:"NIKE", 
+        name:"fear of god"},
+    {   id:"Draw", 
+        imgAdd:'/static/media/nike7.fda7ecd8.png', 
+        brand:"NIKE", 
+        name:"jordan1 LA TO Chicago"} ,
+    {   id:"soon", 
+        imgAdd:'/static/media/nike8.b41cbedc.png', 
+        brand:"NIKE", 
+        name:"Kasina"}
+]
